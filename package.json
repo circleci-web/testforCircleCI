@@ -1,0 +1,12 @@
+{
+    "appid": "testforCircleCI",
+    "apptype": "html",
+    "name": "testforCircleCI",
+    "desc": "Webida Apps",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-contrib-jshint": "^0.10.0",
+        "jshint-stylish": "^1.0.0"
+    }
+}
